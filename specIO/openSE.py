@@ -471,13 +471,6 @@ def openSE(foldORfile, readRaw = False, normRaw = True):
         print("Pathname is neither a file nor a folder!!!!!")
         return
         
-        
-        
-#testfolder = openSE("/home/adam/Dropbox/rs/leaftraits2016/20160831/spectra/psr/")
-#testfile = openSE("/Users/adam/Dropbox/rs/leaftraits2016/20160824/spectra/psr/VISO_F_A_SU_20160824_00005.sed",readRaw =True, normRaw = True)
-#testfile2 = openSE("/Users/adam/Dropbox/rs/leaftraits2016/20160824/spectra/psr/VISO_F_A_SU_20160824_00005.sed")
-
-
 
 
 

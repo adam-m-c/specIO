@@ -308,8 +308,3 @@ def openOO(foldORfile):
     else:
         print("Pathname is neither a file nor a folder!!!!!")
         return
-                                                                                                                                                                                                                    
-                                                                                                                                                                                                                                                                     
-#testfile = openOO("/home/adam/Dropbox/rs/goddard_calibration_jan_2016/usb2000/usb2000_linearity/internal_hl2000/usb2000_linearity_hl2000_USB2H140271_16-59-00-108.txt")
-#testfolder= openOO("/Users/adam/Dropbox/rs/goddard_calibration_jan_2016/usb2000/usb2000_linearity/internal_hl2000/")
-                        

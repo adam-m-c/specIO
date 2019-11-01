@@ -610,5 +610,3 @@ def openSVC(foldORfile):
         return
         
         
-        
-#testfile = openSVC("/Users/adam/Dropbox/rs/goddard_calibration_jan_2016/svc/svc2040_linearity/internal/gr011416_002.sig")
