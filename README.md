@@ -8,7 +8,8 @@ gain and offset much more!!! Metadata are especially useful for diagnosing data 
 
 specIO primarily for reading files but contains a few processing options like jump correction for
 the ASD and spectrum interpolation. Once the spectra are in a dataframe its easy to use packages
-like scipy and scikit-learn for data processing and analysis.
+like [scipy](https://www.scipy.org/) and [scikit-learn](https://scikit-learn.org/stable/) for data
+processing and analysis.
 
 # Requirements
 	- pandas
