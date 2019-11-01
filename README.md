@@ -10,7 +10,7 @@ specIO primarily for reading files but contains a few processing options like ju
 the ASD and spectrum interpolation. Once the spectra are in a dataframe its easy to use packages
 like scipy and scikit-learn for data processing and analysis.
 
-#Requirements
+# Requirements
 	- pandas
 	- scipy
 	- numpy
