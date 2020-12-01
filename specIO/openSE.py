@@ -1,6 +1,6 @@
-import pandas as pd, numpy as n
+import pandas as pd, numpy as np
 import os, datetime as dt
-from readSEraw import readSEraw
+#from readSEraw import readSEraw
 from scipy.interpolate import interp1d
 
 ######################################################################################################################################################                                                 
